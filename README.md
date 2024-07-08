@@ -1,7 +1,7 @@
 # Food-Delivery-Web-React-JS-TailWind-CSS
 ## Project Video
 [Watch the project video](https://youtu.be/_kbBnGcXo6Q)
-
+updated version : https://github.com/vishalIII/FoodieMe.git
 
 🚀 Excited to share my latest project: a food delivery frontend web app built with React.js and styled using Tailwind CSS!
 
